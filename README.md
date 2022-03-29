@@ -48,6 +48,8 @@ Database: Postgres
 </div>
 
 <div>
+<h1>Website:</h1>
+  <a>https://euphonious-khapse-960964.netlify.app/</a>
 <h1>Login</h1>
 <p> As a user: email: a@a.com pass: a. As a chef: email:gordon@gmail.com pass:gordon1234</p>
 <br />
