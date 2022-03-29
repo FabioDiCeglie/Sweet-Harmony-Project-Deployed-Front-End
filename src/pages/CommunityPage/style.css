@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
+.CommunityPage {
+  background-color: rgb(199, 198, 198);
+  margin: 0;
+}
+
+.TitleCommunityPage {
+  text-align: center;
+  font-size: 35px;
+  font-family: "Indie Flower", cursive;
+  color: green;
+}
+.PCommunityPage {
+  text-align: center;
+  font-size: large;
+}

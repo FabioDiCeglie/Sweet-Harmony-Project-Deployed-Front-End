@@ -1,0 +1,20 @@
+.EventsPage {
+  background-color: rgb(224, 255, 206);
+}
+
+.InformationEventsPage {
+  text-align: center;
+  color: black;
+}
+
+.EventsBlocks {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.EventsCards {
+  margin-left: 5%;
+  margin-top: 3%;
+  border-radius: 5%;
+  margin-bottom: 2%;
+}

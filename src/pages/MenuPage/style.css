@@ -1,0 +1,14 @@
+.MenuPageAll {
+  background-color: rgb(246, 246, 254);
+}
+
+.MenuPageBlocks {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.MenuCards {
+  margin-left: 5%;
+  margin-top: 5%;
+  text-align: center;
+}

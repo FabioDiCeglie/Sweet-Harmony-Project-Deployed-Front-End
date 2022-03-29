@@ -1,0 +1,10 @@
+.UserProfileBlocks {
+  display: flex;
+  flex-direction: column;
+}
+
+.UserProfileInformations {
+  margin-left: 8%;
+  margin-top: 2%;
+  margin-bottom: 23%;
+}

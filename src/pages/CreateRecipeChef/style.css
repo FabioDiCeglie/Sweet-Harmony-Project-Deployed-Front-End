@@ -1,0 +1,25 @@
+.EditCreateRecipeChefAllPage {
+  background-color: rgb(245, 245, 255);
+}
+.EditCreateRecipeChefTitle {
+  text-align: center;
+  margin-bottom: 8%;
+}
+.BoxCreateRecipe {
+  display: flex;
+}
+.EditCreateRecipeBox {
+  display: flex;
+  flex-direction: row;
+}
+
+.EditCreateRecipeFields {
+  display: flex;
+  flex-direction: column;
+}
+
+.ButtonCreateRecipe {
+  margin-left: 3%;
+  margin-top: 6%;
+  margin-bottom: 18%;
+}

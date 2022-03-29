@@ -1,0 +1,30 @@
+.FooterAll {
+  background-color: rgb(1, 150, 1);
+  width: 100%;
+  display: flex;
+}
+
+.FirstColumnFooter {
+  width: 15%;
+  margin-left: 10%;
+  text-align: center;
+  margin-top: 1%;
+  margin-top: 4%;
+  margin-bottom: 1%;
+}
+
+.SecondColumnFooter {
+  width: 15%;
+  margin-left: 5%;
+  text-align: center;
+  margin-top: 4%;
+  margin-bottom: 1%;
+}
+
+.ThirdColumnFooter {
+  width: 15%;
+  margin-left: 5%;
+  text-align: center;
+  margin-top: 4%;
+  margin-bottom: 1%;
+}

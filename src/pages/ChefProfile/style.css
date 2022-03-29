@@ -1,0 +1,34 @@
+.ProfileChefTitle {
+  text-align: center;
+  margin-top: 2%;
+}
+
+.ProfileChefBlock {
+  display: flex;
+  margin-top: 5%;
+  justify-content: center;
+}
+
+.ProfileImageChef {
+  width: 400px;
+  border-radius: 50%;
+}
+
+.ProfileInformationChef {
+  margin-left: 8%;
+  width: 50%;
+  font-size: large;
+}
+
+.BookingsTitle {
+  text-align: center;
+  margin-top: 2%;
+}
+
+.BookingsChefProfile {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 8%;
+  margin-top: 2%;
+  margin-bottom: 5%;
+}
