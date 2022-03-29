@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/pages/RecipesPage/style.css"],"names":[],"mappings":"AAAA,eACE,YAAa,CACb,cAAe,CACf,gBACF","file":"19.7015c68b.chunk.css","sourcesContent":[".RecipesBlocks {\n  display: flex;\n  flex-wrap: wrap;\n  margin-bottom: 2%;\n}\n"]}

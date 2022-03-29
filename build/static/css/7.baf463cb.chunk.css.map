@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/BookingChefForm/style.css"],"names":[],"mappings":"AAAA,kBACE,UAAW,CACX,aACF","file":"7.baf463cb.chunk.css","sourcesContent":[".BookingFormBlock {\n  padding: 2%;\n  margin-top: 2%;\n}\n"]}

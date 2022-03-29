@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/pages/UserProfile/style.css"],"names":[],"mappings":"AAAA,mBACE,YAAa,CACb,qBACF,CAEA,yBACE,cAAe,CACf,aAAc,CACd,iBACF","file":"21.eb8d59e2.chunk.css","sourcesContent":[".UserProfileBlocks {\n  display: flex;\n  flex-direction: column;\n}\n\n.UserProfileInformations {\n  margin-left: 8%;\n  margin-top: 2%;\n  margin-bottom: 23%;\n}\n"]}

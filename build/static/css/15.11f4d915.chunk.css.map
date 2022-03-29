@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/pages/EventPage/style.css"],"names":[],"mappings":"AAAA,WACE,wBACF,CAEA,eACE,SAAU,CACV,cAAe,CACf,gBAAiB,CACjB,aACF","file":"15.11f4d915.chunk.css","sourcesContent":[".EventPage {\n  background-color: rgb(224, 255, 206);\n}\n\n.DetailsBlocks {\n  width: 80%;\n  margin-left: 3%;\n  margin-bottom: 3%;\n  margin-top: 3%;\n}\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/pages/CreateEventChef/style.css"],"names":[],"mappings":"AAAA,gBACE,UAAW,CAEX,wBACF","file":"12.e67d22dd.chunk.css","sourcesContent":[".EventFormBlock {\n  padding: 2%;\n\n  background-color: rgb(245, 245, 255);\n}\n"]}

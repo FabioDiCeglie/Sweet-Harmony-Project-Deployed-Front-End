@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/ReviewsChefs/style.css"],"names":[],"mappings":"AAAA,aACE,cAAe,CACf,wBAAoC,CACpC,gBAAiB,CACjB,UACF","file":"9.354f5a44.chunk.css","sourcesContent":[".ReviewBlock {\n  margin-top: 10%;\n  background-color: rgb(236, 236, 250);\n  border-radius: 5%;\n  padding: 5%;\n}\n"]}
