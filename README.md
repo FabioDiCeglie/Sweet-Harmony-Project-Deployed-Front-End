@@ -49,7 +49,7 @@ Database: Postgres
 
 <div>
 <h1>Website:</h1>
-https://euphonious-khapse-960964.netlify.app/
+https://sweetharmony.netlify.app/
 <h1>Login</h1>
 <p> As a user: email: a@a.com pass: a. As a chef: email:gordon@gmail.com pass:gordon1234</p>
 <br />
