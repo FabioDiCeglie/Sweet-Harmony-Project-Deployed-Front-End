@@ -18,6 +18,9 @@ For this I create an app that resolve that problem, indeed with that you have th
   <img src="./dbdiagram.png" width="350" title="Wireframe">
 </p>
 
+<h1>Database Repository:</h1>
+https://github.com/FabioDiCeglie/Project-Sweet-Harmony-Deployed-Back-End
+
 <h1>For this app I used:</h1>
 <br />
 Languages: Javascript
